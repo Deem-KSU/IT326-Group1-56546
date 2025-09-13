@@ -12,4 +12,4 @@ Through this, we aim to uncover meaningful patterns that can support early detec
 
 ## Student's Names :
 
-Ranem Ibrahim, Jana Alshehri, 
+Ranem Ibrahim, Jana Alshehri, Raghad Alkhurayyif, Deem Alzamil
