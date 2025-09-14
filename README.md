@@ -8,7 +8,7 @@ Through this, we aim to uncover meaningful patterns that can support early detec
 
 ## Project Motivation :
 
-Student mental health is considered one of the most significant challenges in the modern era, especially with the increasing academic, social, and financial pressures. Many studies indicate that depression among students in educational stages can negatively affect academic performance, productivity levels, and overall quality of life. We have chosen this problem because it addresses an essential aspect of students’ lives, which is mental health. Data analysis helps us understand the factors that may lead to depression, opening the door to developing solutions and strategies for early intervention and student support. We found that this dataset is rich in variables and provides an opportunity to apply data mining techniques in a scientific and meaningful way.
+Student mental health is considered one of the most significant challenges in the modern era, especially with the increasing academic, social, and financial pressures. Many studies indicate that depression among students in educational stages can negatively affect academic performance, productivity levels, and overall quality of life. We have chosen this problem because it addresses an essential aspect of students’ lives, which is mental health. Data analysis helps us understand the factors that may lead to depression, opening the door to developing solutions and strategies for early intervention and student support. 
 
 
 
